@@ -5,16 +5,23 @@
 
 #Packages required
 •	library (rvest)
+
 •	library (dplyr)
+
 •	library (ggplot2)
+
 •	library (forecast)
+
 •	library(tseries)
+
 All downloadable from CRAN repositories.
 
 
 #Prerequisites
 
 •	Knowledge of R programming
+
 •	R studio
+
 
 
