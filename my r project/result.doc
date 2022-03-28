@@ -1,0 +1,26 @@
+
+ ARIMA(2,1,2) with drift         : -103.9589
+ ARIMA(0,1,0) with drift         : -103.3401
+ ARIMA(1,1,0) with drift         : -101.408
+ ARIMA(0,1,1) with drift         : -102.196
+ ARIMA(0,1,0)                    : -81.15208
+ ARIMA(1,1,2) with drift         : -106.3378
+ ARIMA(0,1,2) with drift         : -108.7183
+ ARIMA(0,1,3) with drift         : -106.3382
+ ARIMA(1,1,1) with drift         : -104.722
+ ARIMA(1,1,3) with drift         : -104.1381
+ ARIMA(0,1,2)                    : -88.63073
+
+ Best model: ARIMA(0,1,2) with drift         
+
+Series: gdp_tseries 
+ARIMA(0,1,2) with drift 
+Box Cox transformation: lambda= 0 
+
+Coefficients:
+         ma1      ma2   drift
+      0.1172  -0.4004  0.0706
+s.e.  0.1233   0.1251  0.0085
+
+sigma^2 = 0.008648:  log likelihood = 58.72
+AIC=-109.45   AICc=-108.72   BIC=-101.07
