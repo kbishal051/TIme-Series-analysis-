@@ -13,6 +13,7 @@ All downloadable from CRAN repositories.
 
 
 #Prerequisites
+
 •	Knowledge of R programming
 •	R studio
 
