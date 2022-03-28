@@ -1,4 +1,4 @@
-
+                  Tracing the results of auto.arima()
  ARIMA(2,1,2) with drift         : -103.9589
  ARIMA(0,1,0) with drift         : -103.3401
  ARIMA(1,1,0) with drift         : -101.408
